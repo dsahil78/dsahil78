@@ -74,4 +74,4 @@ I prototype constantly. Some of these are class projects, some hackathon entries
 
 ---
 
-*Currently exploring **Senior PM** and **AI PM** roles. Available **August 2026** for full-time directly.*
+*Currently exploring **Senior PM** and **AI PM** roles.*
